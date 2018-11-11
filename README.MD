@@ -1,0 +1,1 @@
+此项目用来cdn加速用提升中国访问速度,cdn资源地址：https://cdn.jsdelivr.net/gh/myklss/cdnjs/
