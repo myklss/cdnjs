@@ -1,6 +1,6 @@
 document.writeln("<head>");
 document.writeln("  <meta charset=\'utf-8\'>");
-document.writeln("   <title>Cloudbird Network, Internet Advantage</title>");
+document.writeln("  <title>Cloudbird Network, Internet Advantage</title>");
 document.writeln("  <meta name=\'description\' content=\'CLOUDBIRD NETWORK, Online Game Accelerator\'>");
 document.writeln("  <meta name=\'keywords\' content=\'CLOUDBIRD NETWORK, Online Game Accelerator\'>");
 document.writeln("  <meta name=\'viewport\' content=\'width=device-width, initial-scale=1, maximum-scale=1\'> ");

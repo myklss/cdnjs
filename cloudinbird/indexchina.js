@@ -1,6 +1,6 @@
 document.writeln("<head>");
 document.writeln("  <meta charset=\'utf-8\'>");
-document.writeln("   <title>云鸟网络加速,上网优势</title>");
+document.writeln("  <title>云鸟网络加速,上网优势</title>");
 document.writeln("  <meta name=\'description\' content=\'云鸟加速,网游加速器\'>");
 document.writeln("  <meta name=\'keywords\' content=\'云鸟加速,网游加速器\'>");
 document.writeln("  <meta name=\'viewport\' content=\'width=device-width, initial-scale=1, maximum-scale=1\'> ");
