@@ -1,6 +1,5 @@
  @charset "UTF-8";
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
-/*@import url('https://fonts.loli.net/css?family=Roboto'); */
 html {
 	font-family: "微軟正黑體", 'Roboto', sans-serif;
 	-ms-text-size-adjust: 100%;
@@ -292,7 +291,7 @@ a { text-decoration:none;}
   z-index:50;
   top:20px;
   left:30px;
-  width:200px;
+  width:96px;
   display:block;
 }
 .national-parks-top a.languege
@@ -563,12 +562,7 @@ font-size:26px;
          }
     100% { opacity: 0 }
 }
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(../font/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
-}
+
 
 /* Show at least something when animations not supported */
 .no-cssanimations .cb-slideshow li span{
